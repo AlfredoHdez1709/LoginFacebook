@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloPhoto</string>
+    <string name="facebook_app_id">1182916485153198</string>
+    <string name="Logincancelado">Se cancelo el inicio</string>
+    <string name="errorlogin">Error de login</string>
+    <string name="welcome">Hola</string>
+    <string name="logout">Salir</string>
+</resources>
